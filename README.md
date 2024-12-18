@@ -6,3 +6,4 @@ Python演练项目
 	安装PyInstaller:pip install pyinstaller
 # 2.使用PyInstaller打包Python脚本:
 	pyinstaller --onefile Pic.py
+# 3.
